@@ -9,7 +9,11 @@ function App() {
 
 function addNote (note){
   setNotes(prevNotes => {
-    return [...prevNotes,note]
+   
+     return  [...prevNotes,note]
+
+      
+      
   })
 }
 
@@ -29,7 +33,7 @@ setNotes(prevNotes => {
     <div>
       <Header />
       <CreateArea
-      onAdd={addNote} />
+      onAdd= {addNote}/>
       {
         notes.map((noteItem,index) => {
           return  (

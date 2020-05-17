@@ -13,18 +13,18 @@ function CreateArea(props) {
     setNote(prevNote => {
      
       return {
-        ...prevNote,
-        [name]:value
+        ...prevNote,[name]:value
       }
     })
   }
   function handleClick(event){
+   
    props.onAdd(note)
-   event.preventDefault();
-   setNote({
-    title:"",
-    content:""
-  });
+  event.preventDefault();
+  setNote({
+   title:"",
+   content:""
+ });
 
 
   }
