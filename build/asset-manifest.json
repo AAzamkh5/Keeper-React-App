@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.js": "/Keeper-React-App/static/js/main.41ff8d85.chunk.js",
+    "main.js.map": "/Keeper-React-App/static/js/main.41ff8d85.chunk.js.map",
+    "runtime-main.js": "/Keeper-React-App/static/js/runtime-main.d6d47927.js",
+    "runtime-main.js.map": "/Keeper-React-App/static/js/runtime-main.d6d47927.js.map",
+    "static/js/2.126b70b4.chunk.js": "/Keeper-React-App/static/js/2.126b70b4.chunk.js",
+    "static/js/2.126b70b4.chunk.js.map": "/Keeper-React-App/static/js/2.126b70b4.chunk.js.map",
+    "index.html": "/Keeper-React-App/index.html",
+    "precache-manifest.cfae7b57427a301ad1b1f8b7ccf9acab.js": "/Keeper-React-App/precache-manifest.cfae7b57427a301ad1b1f8b7ccf9acab.js",
+    "service-worker.js": "/Keeper-React-App/service-worker.js",
+    "static/js/2.126b70b4.chunk.js.LICENSE.txt": "/Keeper-React-App/static/js/2.126b70b4.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.d6d47927.js",
+    "static/js/2.126b70b4.chunk.js",
+    "static/js/main.41ff8d85.chunk.js"
+  ]
+}
